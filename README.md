@@ -43,13 +43,21 @@ WordCloud, emoji, sqlalchemy, warnings, string, os
 ## 📈 A Few Visual Highlights
 
 - Likes vs Category Boxplot
-  <img width="988" height="831" alt="image" src="https://github.com/user-attachments/assets/da966cd2-34d4-47f5-83dc-2a7caf0acc47" />
+
+<img width="988" height="831" alt="image" src="https://github.com/user-attachments/assets/da966cd2-34d4-47f5-83dc-2a7caf0acc47" />
+
 - Like-rate by Category Distribution
-  <img width="687" height="662" alt="image" src="https://github.com/user-attachments/assets/7b5ae8c0-2794-4485-846f-c501440ad549" />
+
+<img width="687" height="662" alt="image" src="https://github.com/user-attachments/assets/7b5ae8c0-2794-4485-846f-c501440ad549" />
+
 - WordCloud (Most common positive comment terms)
-  <img width="515" height="268" alt="image" src="https://github.com/user-attachments/assets/3605a152-de9a-40d7-8665-00f1d92e5020" />
+
+<img width="515" height="268" alt="image" src="https://github.com/user-attachments/assets/3605a152-de9a-40d7-8665-00f1d92e5020" />
+
 - Most popular Emoji's 
-  <img width="1493" height="305" alt="Image" src="https://github.com/user-attachments/assets/df190370-deba-429f-bdc7-b5d0f6f78a31" />
+
+<img width="1493" height="305" alt="Image" src="https://github.com/user-attachments/assets/df190370-deba-429f-bdc7-b5d0f6f78a31" />
+
 ---
 
 ## 🧑🏾‍💻 Skills Demonstrated
